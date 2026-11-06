@@ -16,12 +16,12 @@
 ### Современный open-source монитор сетевой устойчивости и диагностический компаньон для нового поколения
 
 <p align="center">
-  <a href="https://github.com/RovelLabs/netward/actions"><img src="https://img.shields.io/badge/CI-Passing-00E599?style=flat-square&logo=githubactions" alt="CI Status" /></a>
+  <a href="https://github.com/ParanoaiDev/netward/actions"><img src="https://img.shields.io/badge/CI-Passing-00E599?style=flat-square&logo=githubactions" alt="CI Status" /></a>
   <a href="https://dotnet.microsoft.com/download/dotnet/8.0"><img src="https://img.shields.io/badge/.NET-8.0%20%7C%2010.0-512BD4?style=flat-square&logo=dotnet" alt=".NET 8" /></a>
   <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Лицензия-Apache--2.0-blue?style=flat-square" alt="License" /></a>
   <a href="PRIVACY.md"><img src="https://img.shields.io/badge/Приватность-100%25%20Local--First-00E599?style=flat-square" alt="Privacy Shield" /></a>
-  <a href="https://github.com/RovelLabs/netward/releases/latest"><img src="https://img.shields.io/badge/Релиз-v0.1.0-orange?style=flat-square" alt="Latest Release" /></a>
+  <a href="https://github.com/ParanoaiDev/netward/releases/latest"><img src="https://img.shields.io/badge/Релиз-v0.1.0-orange?style=flat-square" alt="Latest Release" /></a>
 </p>
 
 <p align="center">
@@ -79,8 +79,8 @@ NetWard рассеивает «туман войны» вашего интерн
 
 | Сборка | Описание | Контрольная сумма SHA-256 | Ссылка |
 | :--- | :--- | :--- | :--- |
-| **Портативный архив (Desktop GUI)** | Графический интерфейс со скриптом быстрой установки `install.cmd` | `BE3954A0B97F317A84A125BA10BCCF3D673C0D952F16FB57B56C827A5DE57B65` | [NetWard-v0.1.0-Windows-x64.zip](https://github.com/RovelLabs/netward/releases/download/v0.1.0/NetWard-v0.1.0-Windows-x64.zip) |
-| **Автономный CLI (Командная строка)** | Одиночный исполняемый файл для терминала (PowerShell / CMD) | `AFB0348DDD2C556CA6A9BA3BAE91E077BF9BECAC65F5A6DE89A5B25ED3B87A43` | [netward-cli-windows-x64.exe](https://github.com/RovelLabs/netward/releases/download/v0.1.0/netward-cli-windows-x64.exe) |
+| **Портативный архив (Desktop GUI)** | Графический интерфейс со скриптом быстрой установки `install.cmd` | `BE3954A0B97F317A84A125BA10BCCF3D673C0D952F16FB57B56C827A5DE57B65` | [NetWard-v0.1.0-Windows-x64.zip](https://github.com/ParanoaiDev/netward/releases/download/v0.1.0/NetWard-v0.1.0-Windows-x64.zip) |
+| **Автономный CLI (Командная строка)** | Одиночный исполняемый файл для терминала (PowerShell / CMD) | `AFB0348DDD2C556CA6A9BA3BAE91E077BF9BECAC65F5A6DE89A5B25ED3B87A43` | [netward-cli-windows-x64.exe](https://github.com/ParanoaiDev/netward/releases/download/v0.1.0/netward-cli-windows-x64.exe) |
 
 > [!TIP]
 > **Установка в 1 клик:** Скачайте zip-архив, распакуйте в любую папку и запустите `install.cmd` — программа установится в `%LOCALAPPDATA%\Programs\NetWard` и создаст удобные ярлыки на **Рабочем столе** и в меню **«Пуск»**. Права администратора не требуются!
@@ -108,7 +108,7 @@ NetWard рассеивает «туман войны» вашего интерн
 | Разработчик | Роль в проекте | Профиль на GitHub |
 | :---: | :---: | :---: |
 | <img src="https://github.com/fourtopaph-debug.png" width="60" height="60" style="border-radius:50%"/><br>**@fourtopaph-debug** | **Ведущий мейнтейнер и разработчик ядра** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/fourtopaph-debug) |
-| <img src="https://github.com/RovelLabs.png" width="60" height="60" style="border-radius:50%"/><br>**RovelLabs Team** | **Организация открытого ПО и релизы** | [![GitHub](https://img.shields.io/badge/Organization-RovelLabs-blue?logo=github)](https://github.com/RovelLabs) |
+| <img src="https://github.com/ParanoaiDev.png" width="60" height="60" style="border-radius:50%"/><br>**RovelLabs Team** | **Организация открытого ПО и релизы** | [![GitHub](https://img.shields.io/badge/Organization-RovelLabs-blue?logo=github)](https://github.com/ParanoaiDev) |
 | <img src="https://avatars.githubusercontent.com/u/10137?v=4" width="60" height="60" style="border-radius:50%"/><br>**Senior Systems Architect** | **Архитектура сокетов и протоколов** | Core Contributor |
 | <img src="https://avatars.githubusercontent.com/u/10138?v=4" width="60" height="60" style="border-radius:50%"/><br>**UI/UX Designer** | **Дизайн-система Graphite & Pulse** | Frontend / WPF |
 
@@ -141,7 +141,7 @@ netward simulate discord
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/RovelLabs/netward.git
+git clone https://github.com/ParanoaiDev/netward.git
 cd netward
 
 # Сборка всего решения

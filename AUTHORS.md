@@ -6,7 +6,7 @@ The **NetWard** project is maintained and developed by an autonomous open-source
 
 ## 🏛️ Core Engineering & Architecture Team
 
-* **RovelLabs Engineering Group** ([@RovelLabs](https://github.com/RovelLabs))
+* **RovelLabs Engineering Group** ([@RovelLabs](https://github.com/ParanoaiDev))
   - Project Governance, Infrastructure & Open-Source Stewardship.
 * **Senior Software & Systems Architect**
   - Modular Clean Architecture, multi-layer asynchronous socket engine, deterministic simulation subsystem.

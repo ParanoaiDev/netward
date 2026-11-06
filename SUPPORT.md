@@ -8,7 +8,7 @@ Welcome to the NetWard community! Here is how to get help, report issues, and in
 
 - **Documentation:** Browse the `docs/` directory for detailed architecture, build guides, and network troubleshooting FAQs.
 - **Frequently Asked Questions:** See [docs/FAQ.md](docs/FAQ.md) for solutions to common questions.
-- **GitHub Discussions:** Join discussions on our GitHub repository: `https://github.com/RovelLabs/netward/discussions`.
+- **GitHub Discussions:** Join discussions on our GitHub repository: `https://github.com/ParanoaiDev/netward/discussions`.
 
 ---
 

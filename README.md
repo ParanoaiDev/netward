@@ -16,12 +16,12 @@
 ### The Open-Source Internet Resilience &amp; Diagnostics Companion for the Next Generation
 
 <p align="center">
-  <a href="https://github.com/RovelLabs/netward/actions"><img src="https://img.shields.io/badge/CI-Passing-00E599?style=flat-square&logo=githubactions" alt="CI Status" /></a>
+  <a href="https://github.com/ParanoaiDev/netward/actions"><img src="https://img.shields.io/badge/CI-Passing-00E599?style=flat-square&logo=githubactions" alt="CI Status" /></a>
   <a href="https://dotnet.microsoft.com/download/dotnet/8.0"><img src="https://img.shields.io/badge/.NET-8.0%20%7C%2010.0-512BD4?style=flat-square&logo=dotnet" alt=".NET 8" /></a>
   <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-blue?style=flat-square" alt="License" /></a>
   <a href="PRIVACY.md"><img src="https://img.shields.io/badge/Privacy-100%25%20Local--First-00E599?style=flat-square" alt="Privacy Shield" /></a>
-  <a href="https://github.com/RovelLabs/netward/releases/latest"><img src="https://img.shields.io/badge/Release-v0.1.0-orange?style=flat-square" alt="Latest Release" /></a>
+  <a href="https://github.com/ParanoaiDev/netward/releases/latest"><img src="https://img.shields.io/badge/Release-v0.1.0-orange?style=flat-square" alt="Latest Release" /></a>
 </p>
 
 <p align="center">
@@ -79,8 +79,8 @@ NetWard does the same for your internet connection: instead of guessing why **Di
 
 | Package | Description | SHA-256 Checksum | Download |
 | :--- | :--- | :--- | :--- |
-| **Desktop GUI Archive** | Full graphical interface with 1-click `install.cmd` script | `BE3954A0B97F317A84A125BA10BCCF3D673C0D952F16FB57B56C827A5DE57B65` | [NetWard-v0.1.0-Windows-x64.zip](https://github.com/RovelLabs/netward/releases/download/v0.1.0/NetWard-v0.1.0-Windows-x64.zip) |
-| **Standalone CLI** | Single-file binary for PowerShell / CMD terminal | `AFB0348DDD2C556CA6A9BA3BAE91E077BF9BECAC65F5A6DE89A5B25ED3B87A43` | [netward-cli-windows-x64.exe](https://github.com/RovelLabs/netward/releases/download/v0.1.0/netward-cli-windows-x64.exe) |
+| **Desktop GUI Archive** | Full graphical interface with 1-click `install.cmd` script | `BE3954A0B97F317A84A125BA10BCCF3D673C0D952F16FB57B56C827A5DE57B65` | [NetWard-v0.1.0-Windows-x64.zip](https://github.com/ParanoaiDev/netward/releases/download/v0.1.0/NetWard-v0.1.0-Windows-x64.zip) |
+| **Standalone CLI** | Single-file binary for PowerShell / CMD terminal | `AFB0348DDD2C556CA6A9BA3BAE91E077BF9BECAC65F5A6DE89A5B25ED3B87A43` | [netward-cli-windows-x64.exe](https://github.com/ParanoaiDev/netward/releases/download/v0.1.0/netward-cli-windows-x64.exe) |
 
 > [!TIP]
 > **1-Click Setup:** Download the zip archive, extract anywhere, and double-click `install.cmd`. It installs NetWard into `%LOCALAPPDATA%\Programs\NetWard` and creates Desktop and Start Menu shortcuts with **no administrator rights required**.
@@ -105,7 +105,7 @@ Developed and maintained by an open-source team under **RovelLabs**:
 | Contributor | Role | GitHub |
 | :---: | :---: | :---: |
 | <img src="https://github.com/fourtopaph-debug.png" width="60" height="60" style="border-radius:50%"/><br>**@fourtopaph-debug** | **Lead Maintainer & Core Developer** | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github)](https://github.com/fourtopaph-debug) |
-| <img src="https://github.com/RovelLabs.png" width="60" height="60" style="border-radius:50%"/><br>**RovelLabs Team** | **Open-Source Organization & Infrastructure** | [![GitHub](https://img.shields.io/badge/Organization-RovelLabs-blue?logo=github)](https://github.com/RovelLabs) |
+| <img src="https://github.com/ParanoaiDev.png" width="60" height="60" style="border-radius:50%"/><br>**RovelLabs Team** | **Open-Source Organization & Infrastructure** | [![GitHub](https://img.shields.io/badge/Organization-RovelLabs-blue?logo=github)](https://github.com/ParanoaiDev) |
 | <img src="https://avatars.githubusercontent.com/u/10137?v=4" width="60" height="60" style="border-radius:50%"/><br>**Senior Systems Architect** | **Socket Diagnostics & Protocol Engine** | Core Contributor |
 | <img src="https://avatars.githubusercontent.com/u/10138?v=4" width="60" height="60" style="border-radius:50%"/><br>**UI/UX Designer** | **Graphite & Pulse Design System** | Frontend / WPF |
 
@@ -138,7 +138,7 @@ netward simulate discord
 
 ```bash
 # Clone the repository
-git clone https://github.com/RovelLabs/netward.git
+git clone https://github.com/ParanoaiDev/netward.git
 cd netward
 
 # Build entire solution

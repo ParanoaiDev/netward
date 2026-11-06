@@ -20,7 +20,7 @@ Thank you for your interest in contributing to **NetWard**! NetWard is an open-s
 
 ### Clone & Build
 ```bash
-git clone https://github.com/RovelLabs/netward.git
+git clone https://github.com/ParanoaiDev/netward.git
 cd netward
 
 # Build entire solution

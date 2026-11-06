@@ -65,5 +65,5 @@ NetWard complies fully with the principles of the Convention on the Rights of th
 ## 5. Auditability
 
 NetWard is 100% free open-source software under the Apache-2.0 license. Every line of source code, build script, and dependency manifest is publicly auditable in our GitHub repository:  
-`https://github.com/RovelLabs/netward`
+`https://github.com/ParanoaiDev/netward`
 
